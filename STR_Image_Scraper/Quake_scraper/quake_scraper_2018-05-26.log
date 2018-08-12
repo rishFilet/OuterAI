@@ -1,0 +1,28 @@
+2018-05-26 20:06:28,119 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-05-26 20:06:28,120 | INFO     | 0002 | Coordinations 27.717245, 85.323960
+2018-05-26 20:06:48,428 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-05-26 20:06:48,430 | INFO     | 0002 | Coordinations 27.717245, 85.323960
+2018-05-26 20:06:48,430 | INFO     | 0003 | Date of Quake: 2015-4-25
+2018-05-26 20:06:48,431 | INFO     | 0004 | Sat Source: Sentinel2L1C
+2018-05-26 20:13:41,498 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-05-26 20:13:41,505 | INFO     | 0002 | Coordinates: 27.717245, 85.323960
+2018-05-26 20:13:41,506 | INFO     | 0003 | Date of Quake: 2015-4-25
+2018-05-26 20:13:41,506 | INFO     | 0004 | Sat Source: PSScene3Band
+2018-05-26 20:16:03,003 | INFO     | 0039 | Scenes to activate : 13
+2018-05-26 20:16:09,833 | INFO     | 0039 | Scenes to activate : 13
+2018-05-26 20:17:12,962 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-05-26 20:17:12,963 | INFO     | 0002 | Coordinates: 27.717245, 85.323960
+2018-05-26 20:17:12,964 | INFO     | 0003 | Date of Quake: 2015-4-25
+2018-05-26 20:17:12,965 | INFO     | 0004 | Sat Source: Landsat8L1G
+2018-05-26 20:17:51,259 | INFO     | 0039 | Scenes to activate : 0
+2018-05-26 20:17:51,261 | INFO     | 0037 | Activation Done for Before images
+2018-05-26 20:24:24,119 | INFO     | 0014 | All done with the Gifs for after quake!
+2018-05-26 20:28:53,621 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-05-26 20:28:53,628 | INFO     | 0002 | Coordinates: 27.717245, 85.323960
+2018-05-26 20:28:53,629 | INFO     | 0003 | Date of Quake: 2015-4-25
+2018-05-26 20:28:53,630 | INFO     | 0004 | Sat Source: PSScene3Band
+2018-05-26 20:29:17,122 | INFO     | 0039 | Scenes to activate : 13
+2018-05-26 20:29:38,684 | INFO     | 0037 | Activation Done for Before images
+2018-05-26 20:33:38,300 | INFO     | 0020 | All done with the Gifs for before quake!
+2018-05-26 20:33:38,388 | INFO     | 0039 | Scenes to activate : 11
+2018-05-26 20:34:06,601 | INFO     | 0037 | Activation Done for After images

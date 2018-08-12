@@ -1,0 +1,12 @@
+2018-08-11 08:36:05,360 | INFO     | 0001 | Scraping starting for: oaxaca, mexico
+2018-08-11 08:36:05,362 | INFO     | 0002 | Coordinates: 17.054230, -96.713230
+2018-08-11 08:36:05,364 | INFO     | 0003 | Date of Quake: 2015-7-8
+2018-08-11 08:36:05,365 | INFO     | 0004 | Sat Source: Landsat8L1G
+2018-08-11 08:36:19,378 | INFO     | 0057 | GEOJSON ALREADY CREATED - MOVE TO NEXT CELL
+
+2018-08-11 09:17:51,111 | INFO     | 0001 | Scraping starting for: kathmandu, nepal
+2018-08-11 09:17:51,180 | INFO     | 0002 | Coordinates: 27.717245, 85.323960
+2018-08-11 09:17:51,182 | INFO     | 0003 | Date of Quake: 2015-4-25
+2018-08-11 09:17:51,187 | INFO     | 0004 | Sat Source: Sentinel2L1C
+2018-08-11 09:17:56,411 | INFO     | 0057 | GEOJSON ALREADY CREATED - MOVE TO NEXT CELL
+
